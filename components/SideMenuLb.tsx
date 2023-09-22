@@ -84,7 +84,7 @@ export default function SideMenuLb({ sideMenu, showMenu, profile }: Props) {
             download cv
           </a>
 
-          <p className="text-center text-gray-500 text-xl mt-16 mb-10">{"antero's"} portfolio © 2023.</p>
+          <p className="text-center text-gray-500 text-xl mt-16 mb-10">{"matias's"} portfolio © 2023.</p>
         </div>
       </main>
     </section>
